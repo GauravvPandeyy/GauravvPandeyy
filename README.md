@@ -1,42 +1,44 @@
+<div align="center">
+
 # Hi, I'm Gaurav Pandey! 👋
-### Enterprise Data Analyst & Cloud Pipelines Engineer
+### 🚀 Enterprise Data Analyst & Cloud Infrastructure Engineer
 
-<p align="left">
-  <a href="https://gauravvpandeyy.github.io/gaurav_portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-0078D4?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/gaurav-pandey-828394213" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://gauravvpandeyy.github.io/gaurav_portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-pandey-828394213)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravpandey7245@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack & Toolbelt
+### 🛠️ Core Technology Suite
 
-| Category | Technologies |
-| --- | --- |
-| **Languages & Analytics** | `Python`, `SQL`, `PySpark`, `Excel (Advanced)` |
-| **Data Orchestration** | `Azure Data Factory`, `Databricks`, `SSIS` |
-| **Cloud Infrastructures** | `Microsoft Azure`, `SQL Server`, `Synapse Analytics` |
-| **Business Intelligence** | `Power BI`, `DAX`, `Semantic Modeling` |
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<br>
+<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 ---
 
-## 📊 My GitHub Ecosystem (Real-time Stats)
+### 📊 Engineering Ecosystem & Git Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravvPandeyy&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravvPandeyy&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravvpandeyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravvpandeyy&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravvPandeyy&theme=radical&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravvpandeyy&theme=tokyonight&hide_border=true" width="97%" />
 </p>
 
 ---
 
-## 🚀 Key Architectural Focus Areas
-* 🏭 **Scalable ETL/ELT Pipelines:** Orchestrating complex data movements securely across hybrid structures.
-* 📈 **Advanced Modeling:** Crafting optimized star schemas and transactional models for clean BI reporting.
-* ⚡ **Performance Optimization:** Indexing tables, tuning PySpark clusters, and trimming slow cloud compute queries.
+<div align="left">
+
+### 🎯 Current Architectural Initiatives
+* 🏗️ **Enterprise Architecture:** Crafting metadata-driven ingestion pipelines utilizing the Medallion framework (Bronze/Silver/Gold layers) inside Azure Databricks.
+* 📈 **Semantic Optimization:** Engineering scalable DAX queries, structural dimensions, and partition tables to trim analysis downtime.
+* 🤖 **Agentic Frameworks:** Tinkering with LLMs via LangChain to build text-to-SQL automated execution bots.
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
