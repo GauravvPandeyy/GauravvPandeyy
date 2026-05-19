@@ -2,7 +2,7 @@
 ### Enterprise Data Analyst & Cloud Pipelines Engineer
 
 <p align="left">
-  <a href="https://GauravvPandeyy.github.io/gaurav-portfolio/" target="_blank">
+  <a href="[https://GauravvPandeyy.github.io/gaurav-portfolio/](https://gauravvpandeyy.github.io/gaurav_portfolio/)" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-0078D4?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/gaurav-pandey-828394213" target="_blank">
